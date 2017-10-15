@@ -1,0 +1,16 @@
+{
+  "name": "Shadow Bot",
+  "description": "Playing, help, and fun",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
